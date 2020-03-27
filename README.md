@@ -16,7 +16,7 @@ Section File List
   Decomposition and Abtraction, Introducing Functions, Calling Functions and Scope, Keyword Arguments, Specification, Iteration vs Recursion, Towers of Hanoi, Fibonacci, Recursion on non-numerics, Files
   
 5001 - 5999   Lists and Tuples - 5000
-  Tuples, Lists, List Operations, Mutation, Aliasing, and Cloning, Functions as Objects
+  Tuples, Lists, List Operations, List Comprehension, Mutation, Aliasing, and Cloning, Functions as Objects
 
 6001 - 6999   Dictionaries - 6000
   Dictionaries, Fibonacci and Dictionaries, Global Variables
