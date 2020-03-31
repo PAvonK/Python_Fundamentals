@@ -1,8 +1,6 @@
 # Object Oriented Prorgramming - 9000 (Hierarchies)
 
 
-# After_Video_6_Hierarchies_Exercise_4
-
 class A(object):
     def __init__(self):
         self.a = 1
